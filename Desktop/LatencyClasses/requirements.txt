@@ -3,8 +3,8 @@ wheel
 numpy
 pandas
 scikit-learn
-dlib
-git+https://github.com/ageitgey/face_recognition_models
+dlib-bin
+face-recognition
 streamlit
 supabase
 bcrypt
