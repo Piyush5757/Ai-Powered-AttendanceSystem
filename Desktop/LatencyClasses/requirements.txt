@@ -6,7 +6,7 @@ scikit-learn
 dlib-bin
 face-recognition
 streamlit
-supabase
+supabase>=2.0.0
 bcrypt
 segno
 pillow
