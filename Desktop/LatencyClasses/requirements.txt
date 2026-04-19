@@ -9,7 +9,7 @@ streamlit
 supabase==2.3.4
 gotrue==2.4.1
 httpx==0.24.1
-postgrest==0.16.1
+postgrest==0.15.0
 storage3==0.7.0
 bcrypt
 segno
