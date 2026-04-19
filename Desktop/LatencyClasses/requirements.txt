@@ -7,6 +7,11 @@ dlib-bin
 face-recognition
 streamlit
 supabase>=2.0.0
+supabase==2.3.4
+gotrue==2.3.4
+httpx==0.24.1
+postgrest==0.16.1
+storage3==0.7.0
 bcrypt
 segno
 pillow
