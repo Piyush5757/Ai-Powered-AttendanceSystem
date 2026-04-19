@@ -1,5 +1,5 @@
 streamlit
-setuptools
+
 # UtilityLibraries
 numpy 
 pandas 
@@ -8,7 +8,7 @@ pandas
 scikit-learn
 dlib-bin
 git+https://github.com/ageitgey/face_recognition_models
-setuptools
+setuptools>=65.0.0
 
 # DataBase
 supabase
